@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newTaskOption"
+        android:icon="@drawable/add_task"
+        android:title="Nueva Tarea" />
+    <item
+        android:id="@+id/taskListOption"
+        android:icon="@drawable/task_list"
+        android:title="Lista de Tareas" />
+</menu>
